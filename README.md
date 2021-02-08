@@ -22,4 +22,12 @@ Steps:
     3) front-end has:
         a join as host button and a join as participant button
         -> select one as host and the rest of the tabs as participants
-        -> 
+
+    4) select a name to use in the live chat for each tab and then begin texting
+        -> if all works well then texts should be visible from other tabs as well
+    
+    5) in the host page tab, click on a timer, it should start counting down(if not click multiple times or reload the page), the same countdown should be visible in the other participant pages as well
+
+hopefully it works fine on your end,
+designed and implemented by Jestin jois
+    
